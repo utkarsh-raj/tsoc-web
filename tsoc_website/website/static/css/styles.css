@@ -1,0 +1,16 @@
+.container {
+    border: 1px solid black;
+    border-radius: 1px;
+}
+
+.form-control {
+    margin: 5px;
+}
+
+label {
+    padding-top: 10px;
+}
+
+button {
+    text-align: center;
+}
